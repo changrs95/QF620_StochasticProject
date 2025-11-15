@@ -1,8 +1,0 @@
-# Ignore virtual environment directory
-venv/
-.venv/
-ETH/
-RTH/
-IV_Calc/
-IV_OUTPUT/
-.DS_STORE
